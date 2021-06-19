@@ -16,6 +16,10 @@
 	<a href="https://dribbble.com/patelhit125"><img src="https://img.icons8.com/color/48/000000/dribbble.png" atl="Dribbble" /></a>
 </p>
 
+
+### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JaiminShimpi)
+
 ### Github Stats 👀
 [![Hit's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelhit125&theme=graywhite&show_icons=true&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
