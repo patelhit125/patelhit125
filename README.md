@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects that are using AR/VR and Web Developing.
 - 💬 Ask me about anything related to JS and Android.
 - 📫 How to reach me: You can mail me at [patelhit125@gmail.com](mailto:patelhit125@gmail.com). I'll try to respond as soon as possible.
-- 📄 Resume: [Download here](mailto:patelhit125@gmail.com)
+- 📄 Resume: [Download here](https://github.com/patelhit125/patelhit125/raw/main/Hit%20Patel.pdf)
 - ⚡ Fun fact: I love dark theme everywhere.
 
 ### Feel free to contact me 🙋‍♂️
