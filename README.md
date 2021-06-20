@@ -8,7 +8,7 @@
 - 📄 Resume: [download here](https://github.com/patelhit125/patelhit125/raw/main/Hit%20Patel.pdf)
 - ⚡ Fun fact: I love dark theme everywhere.
 
-### Connect me 🙋‍♂️
+### Connect with me 🙋‍♂️
 <p>
 	<a href="https://www.linkedin.com/in/patelhit125/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/patelhit125/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" /></a>
